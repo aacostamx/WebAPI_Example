@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29609.76
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "api_mxm", "api_mxm\api_mxm.csproj", "{486DFCF8-B4CA-4F78-B4C2-FC4985910029}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "mxm.api", "mxm.api\mxm.api.csproj", "{2D085F0D-9990-47A1-92E4-DD50F11B8806}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MXM.Biz", "mxm.biz\MXM.Biz.csproj", "{CB4B22F6-7101-4018-8561-9466059CE2C3}"
@@ -17,10 +15,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{486DFCF8-B4CA-4F78-B4C2-FC4985910029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{486DFCF8-B4CA-4F78-B4C2-FC4985910029}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{486DFCF8-B4CA-4F78-B4C2-FC4985910029}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{486DFCF8-B4CA-4F78-B4C2-FC4985910029}.Release|Any CPU.Build.0 = Release|Any CPU
 		{2D085F0D-9990-47A1-92E4-DD50F11B8806}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{2D085F0D-9990-47A1-92E4-DD50F11B8806}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D085F0D-9990-47A1-92E4-DD50F11B8806}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -39,22 +33,5 @@ Global
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {75C6BE9A-30A3-4D2A-9116-BD06DFC877E9}
-	EndGlobalSection
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 5
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = api_mxm\\api_mxm.csproj
-		SccProjectName1 = api_mxm
-		SccLocalPath1 = api_mxm
-		SccProjectUniqueName2 = mxm.api\\mxm.api.csproj
-		SccProjectName2 = mxm.api
-		SccLocalPath2 = mxm.api
-		SccProjectUniqueName3 = mxm.biz\\MXM.Biz.csproj
-		SccProjectName3 = mxm.biz
-		SccLocalPath3 = mxm.biz
-		SccProjectUniqueName4 = mxm.dal\\MXM.DAL.csproj
-		SccProjectName4 = mxm.dal
-		SccLocalPath4 = mxm.dal
 	EndGlobalSection
 EndGlobal

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\Antonio\\Source\\Workspaces\\MXMex\\api_mxm\\api_mxm\\api_mxm.csproj": {}
+    "C:\\Users\\Antonio\\Source\\Repos\\WebAPI_Example\\api_mxm\\api_mxm.csproj": {}
   },
   "projects": {
-    "D:\\Users\\Antonio\\Source\\Workspaces\\MXMex\\api_mxm\\api_mxm\\api_mxm.csproj": {
+    "C:\\Users\\Antonio\\Source\\Repos\\WebAPI_Example\\api_mxm\\api_mxm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\Antonio\\Source\\Workspaces\\MXMex\\api_mxm\\api_mxm\\api_mxm.csproj",
+        "projectUniqueName": "C:\\Users\\Antonio\\Source\\Repos\\WebAPI_Example\\api_mxm\\api_mxm.csproj",
         "projectName": "api_mxm",
-        "projectPath": "D:\\Users\\Antonio\\Source\\Workspaces\\MXMex\\api_mxm\\api_mxm\\api_mxm.csproj",
+        "projectPath": "C:\\Users\\Antonio\\Source\\Repos\\WebAPI_Example\\api_mxm\\api_mxm.csproj",
         "packagesPath": "C:\\Users\\Antonio\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\Antonio\\Source\\Workspaces\\MXMex\\api_mxm\\api_mxm\\obj\\",
+        "outputPath": "C:\\Users\\Antonio\\Source\\Repos\\WebAPI_Example\\api_mxm\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft\\Xamarin\\NuGet\\",

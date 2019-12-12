@@ -3773,11 +3773,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\Antonio\\Source\\Workspaces\\MXMex\\api_mxm\\mxm.dal\\MXM.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\Antonio\\Source\\Repos\\WebAPI_Example\\mxm.dal\\MXM.DAL.csproj",
       "projectName": "MXM.DAL",
-      "projectPath": "D:\\Users\\Antonio\\Source\\Workspaces\\MXMex\\api_mxm\\mxm.dal\\MXM.DAL.csproj",
+      "projectPath": "C:\\Users\\Antonio\\Source\\Repos\\WebAPI_Example\\mxm.dal\\MXM.DAL.csproj",
       "packagesPath": "C:\\Users\\Antonio\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\Antonio\\Source\\Workspaces\\MXMex\\api_mxm\\mxm.dal\\obj\\",
+      "outputPath": "C:\\Users\\Antonio\\Source\\Repos\\WebAPI_Example\\mxm.dal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\",
@@ -3798,8 +3798,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\Users\\Antonio\\Source\\Workspaces\\MXMex\\api_mxm\\mxm.biz\\mxm.biz.csproj": {
-              "projectPath": "D:\\Users\\Antonio\\Source\\Workspaces\\MXMex\\api_mxm\\mxm.biz\\mxm.biz.csproj"
+            "C:\\Users\\Antonio\\Source\\Repos\\WebAPI_Example\\mxm.biz\\mxm.biz.csproj": {
+              "projectPath": "C:\\Users\\Antonio\\Source\\Repos\\WebAPI_Example\\mxm.biz\\mxm.biz.csproj"
             }
           }
         }
