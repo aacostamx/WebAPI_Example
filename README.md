@@ -1,8 +1,14 @@
-# System training (Spanish)
-Architecture
+# Web API
 
-Technologies
+ - Serialog
+ - Swagger
+ - Automapper
+ - Layered Architecture
+ - Generic Repository Pattern
+ - Generic Response API
+ - CRUD User
+ - EF Core - Database First
 
-Better practices
+## System training (Spanish)
 
 [![Watch the video](https://i.vimeocdn.com/video/735872057.jpg)](https://vimeo.com/298007296)
